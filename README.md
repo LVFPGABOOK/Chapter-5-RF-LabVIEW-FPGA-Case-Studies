@@ -3,7 +3,7 @@
 
 *References*  
 
-[1] Cohn, C., “Build vs. Buy: How to Know When You Should Build Custom Software over Canned Solutions,” Forbes Magazine, 2014, https://www.forbes.com/sites/chuckcohn/2014/09/15/build-vs-buy-how-to-know-when-youshould-build-custom-software-over-canned-solutions/.  
+[1] Cohn, C., “Build vs. Buy: How to Know When You Should Build Custom Software over Canned Solutions,” Forbes Magazine, 2014, https://www.forbes.com/sites/chuckcohn/2014/09/15/build-vs-buy-how-to-know-when-you-should-build-custom-software-over-canned-solutions/?sh=656392dbc371 (see also https://github.com/LVFPGABOOK/Chapter-5-RF-LabVIEW-FPGA-Case-Studies/commit/5da87b5cfc6d9806103ac8155548df88ca603ff1)  
 [2] Gilbert, R. J., and D. M. Newbery, “Alternative Entry Paths: The Build or Buy Decision,” Journal of Economics & Management Strategy, Vol. 1, No. 1, 1992, pp. 129–150.  
 [3] McGrath, M., Understanding and Applying Product-Platform Strategy, Strategic Publications, 2016, p. 60.  
 [4] Nane, R., et al., “A Survey and Evaluation of FPGA High-Level Synthesis Tools,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 35, No. 10, 2016, pp. 1591–1604.  
