@@ -37,7 +37,7 @@
 [32] Jennings, R., and F. De La Cueva, LabVIEW Graphical Programming, 5th ed., New York: McGraw-Hill Education, 2020.  
 [33] Oppenheim, A. V., and R. W. Schafer, Discrete-Time Signal Processing. Reading, MA: Addison-Wesley, 2009.  
 [34] Födisch, P., et al., “Implementing High-Order FIR Filters in FPGAs,” arXiv preprint arXiv:1610.03360, October 12, 2016, https://arxiv.org/pdf/1610.03360.pdf.  
-[35] Lara, S., “A LabVIEW-Based Software Defi ned Radio for Carrier and Symbol Timing Extraction,” Master thesis, New Mexico State University, 2020. https://search.proquest.com/openview/11d14bb2c55a9ef78d666f883668f618/1?pq-origsite=gscholar&cbl=18750&diss=y  
+[35] Lara, S., “A LabVIEW-Based Software Defined Radio for Carrier and Symbol Timing Extraction,” Master thesis, New Mexico State University, 2020. https://search.proquest.com/openview/11d14bb2c55a9ef78d666f883668f618/1?pq-origsite=gscholar&cbl=18750&diss=y  
 [36] Harrison, W., “Eating Your Own Dog Food,” IEEE Software, Vol. 23, No. 3, 2006, pp. 5–7.  
 [37] Melvin, W. L., and J. Scheer, Principles of Modern Radar: Advanced Techniques, Danvers, MA: Scitech Publishing (in English), 2012, p. 1.  
 [38] Keysight Technologies, Real-Time Spectrum Analyzer (RTSA) X-Series Signal Analyzers N9040B/N9030A/N9020A-RT1 & -RT2 Technical Overview, December 1, 2017, p. 16, https://www.keysight.com/us/en/assets/7018-03791/technical-overviews/5991-1748.pdf.  
