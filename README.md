@@ -53,6 +53,6 @@
 [48] Kirk, B., et al., “Development of a Software-Defined Radar,” U.S. Army Research Laboratory, Sensors and Electron Devices Directorate, 2017.  
 [49] Niranjan, R. K., and B. R. Naik, “Approach of Pulse Parameters Measurement Using Digital IQ Method,” International Journal of Information and Electronics Engineering, Vol. 4, No. 1, 2014, p. 31.  
 [50] Feiereisel, N., and S. Chaudhary, “Architecting a Multi-GHz Real-Time RF Streaming System,” 2017 47th European Microwave Conference (EuMC), October 10–12, 2017, pp. 751–754.  
-[51] Ang, P. S., “DRFM CORDIC Processor and Sea Clutter Modeling for Enhancing Structured False Target Synthesis,” Master’s Thesis, Naval Postgraduate School, Monterey, CA, September 2017, http://hdl.handle.net/10945/56154.  
+[51] Ang, P. S., “DRFM CORDIC Processor and Sea Clutter Modeling for Enhancing Structured False Target Synthesis,” Master’s Thesis, Naval Postgraduate School, Monterey, CA, September 2017, http://hdl.handle.net/10945/56154 (see https://calhoun.nps.edu/bitstream/handle/10945/56154/17Sep_Ang_PakSiang.pdf?sequence=1&isAllowed=y).  
 [52] Grubbs, H. L., “Field Programmable Gate Array High Capacity Technology for Radar and Counter-Radar DRFM Signal Processing,” Master thesis, Naval Postgraduate School, Monterey, CA, 2018, https://apps.dtic.mil/dtic/tr/fulltext/u2/1059881.pdf.  
 [53] Henrion, J, O. Boisot, R. Baqué, N. Castet, J. Nouvel, O. R. du Plessis, “SETHI:Digital Radar System for Signal Generation and Acquisition,” 2019 International Radar Conference (RADAR), September 23–27, 2019, pp. 1–4.  
