@@ -50,7 +50,7 @@
 [45] Xu, J., and H. Wang, “Synthetic Aperture Radar Jamming Semi-Physical Simulation System Based on NI PXI Platform,” IEEE 2019 6th Asia-Pacific Conference on Synthetic Aperture Radar (APSAR), 2019, pp. 1–4.  
 [46] Gankidi, P. R., “FPGA Accelerator Architecture for Q-Learning and Its Applications in Space Exploration Rovers,” Master’s thesis, Arizona State University, 2006.  
 [47] Guerci, J. R., Cognitive Radar: The Knowledge-Aided Fully Adaptive Approach, Norwood, MA: Artech House, 2010.  
-[48] Kirk, B., et al., “Development of a Software-Defined Radar,” U.S. Army Research Laboratory, Sensors and Electron Devices Directorate, 2017.  
+[48] Kirk, B., et al., “Development of a Software-Defined Radar,” U.S. Army Research Laboratory, Sensors and Electron Devices Directorate, 2017 (https://apps.dtic.mil/sti/pdfs/AD1040116.pdf).  
 [49] Niranjan, R. K., and B. R. Naik, “Approach of Pulse Parameters Measurement Using Digital IQ Method,” International Journal of Information and Electronics Engineering, Vol. 4, No. 1, 2014, p. 31.  
 [50] Feiereisel, N., and S. Chaudhary, “Architecting a Multi-GHz Real-Time RF Streaming System,” 2017 47th European Microwave Conference (EuMC), October 10–12, 2017, pp. 751–754.  
 [51] Ang, P. S., “DRFM CORDIC Processor and Sea Clutter Modeling for Enhancing Structured False Target Synthesis,” Master’s Thesis, Naval Postgraduate School, Monterey, CA, September 2017, http://hdl.handle.net/10945/56154 (see https://calhoun.nps.edu/bitstream/handle/10945/56154/17Sep_Ang_PakSiang.pdf?sequence=1&isAllowed=y).  
